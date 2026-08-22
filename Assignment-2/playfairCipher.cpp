@@ -1,6 +1,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+// Implementation of the Playfair Cipher
+
 class PlayfairCipher {
 private:
     char matrix[5][5];
