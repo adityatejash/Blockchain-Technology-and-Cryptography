@@ -1,6 +1,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+// Implementation of the Caesar Cipher and Vigenere Cipher
+
 string caesarEncrypt (string text, int key) {
     string result = "";
 
